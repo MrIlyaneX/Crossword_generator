@@ -1,4 +1,4 @@
-This project was a part of my 2nd year course in Innopolis University (code version in this repo is updated variant).
+This project was a part of my 2nd year "Intro to AI" course in Innopolis University (code version in this repo is updated variant).
 Author: Ilia Mistiurin
 
 # Crossword Generator
